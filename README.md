@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Copenhagen Cyber Terminal | World Tourism Day</title>
+  <title>Copenhagen Cyber Terminal | NOTHING</title>
   <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet" />
   <style>
     :root {
@@ -224,7 +224,7 @@
 
   <div class="terminal-container">
     <!-- Small Watermark in Upper Left Corner -->
-    <div class="terminal-watermark">// CREATED  VAIBHAV KANOJIYA IoT-2</div>
+    <div class="terminal-watermark">// CREATED by VAIBHAV</div>
 
     <!-- Header -->
     <div class="hud-header">
