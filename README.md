@@ -229,7 +229,7 @@
     <!-- Header -->
     <div class="hud-header">
       <span>&gt; NODE: COPENHAGEN_DK // SECURE</span>
-      <span>WORLD TOURISM DAY 2026</span>
+      <span>A TEST CODE</span>
     </div>
 
     <!-- Navigation -->
